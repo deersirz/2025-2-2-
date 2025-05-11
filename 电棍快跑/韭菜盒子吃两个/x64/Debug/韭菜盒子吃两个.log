@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(韭菜盒子吃两个.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  源.cpp
+C:\C++ work\电棍快跑\韭菜盒子吃两个\源.cpp(604,40): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  韭菜盒子吃两个.vcxproj -> C:\C++ work\电棍快跑\x64\Debug\电棍快跑.exe
